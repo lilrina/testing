@@ -2,7 +2,7 @@
 
 https://github.com/d-nedrow/RaiderPlanner/pull/1
 
-This was a first try at a pull request made by Dustin-Layne. Upon examining the changes in github, I noticed he hadn't created a new branch, but was instead working from his master branch. Reading his comment, it was clear that this pull request was just done with some amount of frustration. Instead of doing code changes, he had created the Project1 folder with some of the files we need to submit. I was already working on my own version of these files, so I didn't want to merge these changes into my master branch.
+This was a first try at a pull request made by Dustin-Layne. Upon examining the changes in github, I noticed he hadn't created a new branch, but was instead working from his master branch. Reading his comment, it was clear that this pull request was done with some amount of frustration. Instead of doing code changes, he had created the Project1 folder with some of the files we need to submit. I was already working on my own version of these files, so I didn't want to merge these changes into my master branch.
 
 For the reasons stated above, I decided to reject this pull request.
 
